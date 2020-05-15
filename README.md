@@ -13,25 +13,25 @@ Clone this git repository
 go into the new app directory
 
   	cd rspec_simple_template
-  	
+
 install the RSpec gem
 
   	bundle install
 
-###Installing Gems
+### Installing Gems
 
 Add any gems the project requires in the Gemfile, then run
 
   	bundle install
-  	
-###Writing Examples and Code
-  	
+
+### Writing Examples and Code
+
 Write your examples and code in the changeme_spec.rb file
 
-###Running Your Examples
+### Running Your Examples
 
   	bundle exec rspec changeme_spec.rb
-  	
+
 ## Contact
 
 Comments, patches, Git pull requests and bug reports are welcome.
